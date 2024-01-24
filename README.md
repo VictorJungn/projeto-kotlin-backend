@@ -9,7 +9,7 @@ Repositório para armazenar as etapas em andamento e(ou) finalizadas referente a
  - [Documentação Git Hub](https://docs.github.com/)
 
 ## 💻 Resumo das Aulas
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------|---------|
 | Nome do curso e número da aula | Resumo Aula |
 
